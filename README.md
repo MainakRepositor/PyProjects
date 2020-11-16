@@ -7,6 +7,6 @@ These are a collection of some cool games in Python, which you may show up as so
 
 ## Screenshots : 
 
-<img src="https://user-images.githubusercontent.com/64016811/98468419-549f4300-2200-11eb-85e8-8b224976df2c.jpg" width=40%>
+<img src="https://user-images.githubusercontent.com/64016811/98468419-549f4300-2200-11eb-85e8-8b224976df2c.jpg" width=60%>
 <img src="https://user-images.githubusercontent.com/64016811/98546067-680fe400-22bc-11eb-83df-eff2a2e4ffcf.jpg" width=60%>
-<img src="https://user-images.githubusercontent.com/64016811/99259448-0d3c3680-2840-11eb-898c-386951e70f09.jpg" width=80%>
+<img src="https://user-images.githubusercontent.com/64016811/99259448-0d3c3680-2840-11eb-898c-386951e70f09.jpg" width=60%>
