@@ -12,3 +12,4 @@ These are a collection of some cool games in Python, which you may show up as so
 <img src="https://user-images.githubusercontent.com/64016811/99259448-0d3c3680-2840-11eb-898c-386951e70f09.jpg" width=60%>
 <img src="https://github.com/MainakRepositor/PyProjects/blob/master/Sine%20Scroll%20autograph/demo.gif?raw=true" width=60%>
 <img src="https://github.com/MainakRepositor/PyProjects/raw/master/Audio%20monitor/demo.gif" width=60%>
+<img src="https://github.com/MainakRepositor/MainakRepositor/issues/1#issuecomment-778067052" width=60%>
