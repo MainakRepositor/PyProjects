@@ -24,4 +24,4 @@ These are a collection of some cool games in Python, which you may show up as so
 8. Sound Visualizer
 <img src="https://github.com/MainakRepositor/PyProjects/raw/master/Audio%20monitor/demo.gif" width=60%>
 
-
+<hr>
