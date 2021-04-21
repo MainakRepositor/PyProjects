@@ -25,6 +25,7 @@ These are a collection of some cool games in Python, which you may show up as so
 8. Sound Visualizer
 <img src="https://github.com/MainakRepositor/PyProjects/raw/master/Audio%20monitor/demo.gif" width=60%>
 9. Yin-Yang
+
 ![YinYang](https://user-images.githubusercontent.com/64016811/115610874-1063b300-a307-11eb-8df4-3cae82682a74.gif)
 
 
