@@ -28,5 +28,9 @@ These are a collection of some cool games in Python, which you may show up as so
 
 ![YinYang](https://user-images.githubusercontent.com/64016811/115610874-1063b300-a307-11eb-8df4-3cae82682a74.gif)
 
+10. Text Editor
+
+![rr](https://user-images.githubusercontent.com/64016811/116501903-ada68480-a8cf-11eb-8d05-cc62c44c23b9.jpg)
+
 
 <hr>
