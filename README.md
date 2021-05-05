@@ -7,7 +7,7 @@ These are a collection of some cool games in Python, which you may show up as so
 ## Made with 💜 by Mainak Chaudhuri
 
 
-<img width=50% src="https://banner2.cleanpng.com/20180712/yka/kisspng-professional-python-programmer-computer-programmin-python-logo-download-5b47725c1cc0d6.3474912915314089881178.jpg" >
+
 
 <hr>
 
@@ -15,35 +15,44 @@ These are a collection of some cool games in Python, which you may show up as so
 
 1. Indian Flag
 
-<img src="https://user-images.githubusercontent.com/64016811/107748193-aba43f00-6d3e-11eb-874c-706bb6c59cbf.gif" width=60%>
+![1](https://user-images.githubusercontent.com/64016811/117139251-a7317480-adc9-11eb-8d2d-97de6e034c87.gif)
+
 
 2. Indian Map 
 
-<img src="https://user-images.githubusercontent.com/64016811/114883231-5958ca80-9e22-11eb-9027-25564e37112d.gif" width=60%>
+
+![2](https://user-images.githubusercontent.com/64016811/117139587-0c856580-adca-11eb-931e-57a5b06a77e3.gif)
+
 
 3. Image to ASCII Converter
 
-<img src="https://github.com/MainakRepositor/PyProjects/blob/master/Ascii/output.png" width=60%>
+![3](https://user-images.githubusercontent.com/64016811/117139763-3e96c780-adca-11eb-9e66-054df466b530.png)
+
 
 4. Snakes Game
 
-<img src="https://user-images.githubusercontent.com/64016811/98468419-549f4300-2200-11eb-85e8-8b224976df2c.jpg" width=60%>
+![4](https://user-images.githubusercontent.com/64016811/117139783-43f41200-adca-11eb-97f2-65b2ac58d025.jpg)
+
 
 5. RICO : Screen Recorder
 
-<img src="https://user-images.githubusercontent.com/64016811/98546067-680fe400-22bc-11eb-83df-eff2a2e4ffcf.jpg" width=60%>
+![5](https://user-images.githubusercontent.com/64016811/117139794-48b8c600-adca-11eb-98d2-b2520032f618.jpg)
+
 
 6. Sceintific Calculator
 
-<img src="https://user-images.githubusercontent.com/64016811/99259448-0d3c3680-2840-11eb-898c-386951e70f09.jpg" width=60%>
+![6](https://user-images.githubusercontent.com/64016811/117139817-4ce4e380-adca-11eb-9e63-17073e1ab431.jpg)
+
 
 7. Auto-grapher
 
-<img src="https://github.com/MainakRepositor/PyProjects/blob/master/Sine%20Scroll%20autograph/demo.gif?raw=true" width=60%>
+![7](https://user-images.githubusercontent.com/64016811/117139834-52422e00-adca-11eb-9108-c7c4097fa8e4.gif)
+
 
 8. Sound Visualizer
 
-<img src="https://github.com/MainakRepositor/PyProjects/raw/master/Audio%20monitor/demo.gif" width=60%>
+![8](https://user-images.githubusercontent.com/64016811/117139844-566e4b80-adca-11eb-8a01-c4de1e94b878.gif)
+
 
 9. Yin-Yang
 
